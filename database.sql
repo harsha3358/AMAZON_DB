@@ -1,4 +1,4 @@
---- Create database
+-- Create database
 create database amazon;
 
 use amazon;
