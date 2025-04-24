@@ -93,6 +93,3 @@ This project helps in understanding:
 - Structured Data Modeling
 - Relational Database Management
 
----
-
-> ✅ Feel free to extend the schema, add constraints, or connect this backend to a web app or dashboard for a complete project!
